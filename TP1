@@ -1,1 +1,35 @@
+- Un besoin utilisateur correspond à ce que l’utilisateur cherche à accomplir lorsqu’il utilise un produit, une application ou un service. 
+Il s’agit d’un élément central dans la conception centrée utilisateur, car une interface qui ne répond pas aux besoins réels risque d’être inutilisée ou inefficace.
+Lorsque je crée mon inetrface j'aide l'utilisateur à faire quelque chose concret :  rechercher un produit rapidement ou consulter une information. Si on ^part du principe que je crée une boutique pour 
+vendre des comics elle aide le client à atteidnre à atteindre puisqu'elle l'aide à gagner du temps et acheter un article.L'interface doit également respecter des contraintes pusiqu'elle 
+doit être compréhensible par tout public, le design doit respecter une charte graphique et Le temps de chargement doit être court. 
+
+Processus du Design Centré Utilisateur : 
+Analyse des besoins et du contexte 
+  -- Identification des utilisateurs cibles.  
+  -- Étude des tâches à accomplir.  
+  -- Observation et interviews.
+Spécification des exigences}  
+  -- Définition des objectifs fonctionnels et ergonomiques.  
+  -- Identification des contraintes techniques et humaines.
+Création de wireframes (basse fidélité).  
+  -- Développement de maquettes haute fidélité (ex. avec Figma).  
+  -- Prototypage interactif.
+{Évaluation et tests utilisateurs}  
+  -- Scénarios d’usage testés avec de vrais utilisateurs.  
+  -- Collecte de feedback.  
+  -- Ajustements et itérations.
+
+Je suis actuellement à la création des wireframes 
+
+
+En mettant des obersvateurs à mon projet Figma j'applique la prise en compte des utilisateurs tout au long du processus de conception.
+
+Dans Figma, un calque c’est tout simplement 
+un élément de mon design, comme un texte, une image, un bouton ou une forme. Chaque fois qu'on crée quelque chose, Figma le place sur un calque.
+
+
+
+
+
 
