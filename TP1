@@ -27,7 +27,15 @@ En mettant des obersvateurs à mon projet Figma j'applique la prise en compte de
 
 Dans Figma, un calque c’est tout simplement 
 un élément de mon design, comme un texte, une image, un bouton ou une forme. Chaque fois qu'on crée quelque chose, Figma le place sur un calque.
+Pour bien utiliser les calques il faut : 
+- Toujours les renommes
+- Utiliser des groupes et des frames pour structurer l’interface.
+- Verrouiller les calques qui ne doivent pas être modifiés par erreur.
+- Organiser les calques dans une hiérarchie logique pour faciliter le travail collaboratif.
 
+Un composant, c’est un élément réutilisable dans Figma, comme un bouton, une icône ou une carte d’article.
+Il sert de modèle de base : quand on le duplique, chaque copie reste liée au composant principal.
+Si on modifie le composant principal, toutes les instances se mettent à jour automatiquement, ce qui permet de garder une interface cohérente et uniforme.
 
 
 
